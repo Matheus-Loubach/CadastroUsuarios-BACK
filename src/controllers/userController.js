@@ -1,4 +1,4 @@
-const User = require("../src/models/users");
+const User = require("../models/users");
 
 const ServiceController = {
 
